@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n",
+		"html,\nbody {\n  display: flex;\n  min-height: 100vh;\n  flex-direction: column;\n}\n.section {\n  flex: 1;\n}\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,IAAI,EACJ,IAAI,CAAC,EACH,OAAO,EAAE,IAAI,EACb,UAAU,EAAE,KAAK,EACjB,cAAc,EAAE,MAAM,GACvB;;AACD,AAAA,QAAQ,CAAC,EACP,IAAI,EAAE,CAAC,GACR"
+}

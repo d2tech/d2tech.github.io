@@ -1,0 +1,5 @@
+html, body { display: flex; min-height: 100vh; flex-direction: column; }
+
+.section { flex: 1; }
+
+/*# sourceMappingURL=main.css.map */
